@@ -46,7 +46,7 @@ gem "bootsnap", require: false
 gem "ostruct", "~> 0.6.2"
 gem "faker"
 
-gem "tailwindcss-rails", "~> 4.0"
+gem "tailwindcss-rails", "~> 4.3"
 
 group :development, :test do
   gem "dotenv-rails"
